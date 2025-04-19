@@ -130,9 +130,8 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## Contact
-For questions, feedback, or support, please contact the developer:
-- Email: [your-email@example.com]
-- GitHub: [Your GitHub Profile]
+For questions, feedback, or support, please contact me
+
 
 ---
 
