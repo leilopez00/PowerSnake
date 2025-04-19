@@ -1,7 +1,3 @@
-Here’s a professional and user-friendly **README.md** file for your Snake game. It provides detailed instructions on how to set up, run, and troubleshoot the game.
-
----
-
 # Snake Game
 
 ## Table of Contents
